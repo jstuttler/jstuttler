@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jstuttler
 - 👀 I’m interested in PHP, MySQL, HTML, JavaScript, Web Site Security, eCommerce
 - 🌱 I’m currently learning everything that I can!
-- 📫 Reach me at jstuttler@efinancetracker.com - though I do not check this email often.
+- 📫 Reach me at jstuttler@efinancetracker.com - though I do not check this email often, as I am busy updating a web site anytime my computer is on.
 
 <!---
 jstuttler/jstuttler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
